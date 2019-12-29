@@ -1,11 +1,11 @@
 {
-    "name": "My Second PWA",
+    "name": "HMsyah",
     "short_name": "Soccer",
-    "description": "Aplikasi PWA kedua saya",
+    "description": "Soccer Site",
     "start_url": "/index.html",
     "display": "standalone",
-    "background_color": "#00897B",
-    "theme_color": "#00897B",
+    "background_color": "#005A89",
+    "theme_color": "#005A89",
     "icons": [{
             "src": "images/icons/icon-72x72.png",
             "sizes": "72x72",
